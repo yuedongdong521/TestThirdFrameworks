@@ -7,8 +7,15 @@
 //
 
 #import "AppDelegate.h"
+#import "CustomTabBarController.h"
+#import "CustomNavigationController.h"
+#import "SDWebImageAPNGCoder.h"
+#import "SDWebImageManager.h"
+#import "SDWebImageCodersManager.h"
 
 @interface AppDelegate ()
+
+
 
 @end
 
@@ -17,6 +24,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    SDWebImageAPNGCoder *apngCoder = [SDWebImageAPNGCoder sharedCoder];
+    [[SDWebImageCodersManager sharedInstance] addCoder:apngCoder];
+    
+    CustomTabBarController *tabBar = [[CustomTabBarController alloc] init];
+    
+    CustomNavigationController *navig = [[CustomNavigationController alloc] initWithRootViewController:tabBar];
+    
+    self.window.rootViewController = navig;
+    
+    [self.window makeKeyAndVisible];
+
     return YES;
 }
 

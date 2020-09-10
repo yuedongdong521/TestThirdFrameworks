@@ -1,0 +1,65 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SDWebImageAPNGCoder (0.1.1):
+    - SDWebImage/Core (~> 4.2)
+  - TOCropViewController (2.5.0)
+  - WMPageController (2.5.2)
+  - YBImageBrowser (2.1.5):
+    - SDWebImage
+    - YYImage
+  - YDDWebView (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture
+  - NJKWebViewProgress
+  - SDWebImageAPNGCoder
+  - TOCropViewController
+  - WMPageController
+  - YBImageBrowser
+  - YDDWebView (from `https://github.com/yuedongdong521/YDDWebView.git`)
+
+SPEC REPOS:
+  trunk:
+    - FDFullscreenPopGesture
+    - NJKWebViewProgress
+    - SDWebImage
+    - SDWebImageAPNGCoder
+    - TOCropViewController
+    - WMPageController
+    - YBImageBrowser
+    - YYImage
+
+EXTERNAL SOURCES:
+  YDDWebView:
+    :git: https://github.com/yuedongdong521/YDDWebView.git
+
+CHECKOUT OPTIONS:
+  YDDWebView:
+    :commit: e23eade4a643bc26a14fe11adb7053f8388448f5
+    :git: https://github.com/yuedongdong521/YDDWebView.git
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SDWebImageAPNGCoder: 3e4c684c8223eef2f45a50bdd0beaab345e4eb24
+  TOCropViewController: d86078d3a57a70c116bf3db7c89c80046a0e5fdf
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+  YBImageBrowser: 549bc0f8bc7df723381e1516db240d827ded3673
+  YDDWebView: 63a4b3b6ac2528369de905e36620894d5ab61cee
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: e557550155119f99f8e42b5e5d8653bc8c893d0f
+
+COCOAPODS: 1.9.3
