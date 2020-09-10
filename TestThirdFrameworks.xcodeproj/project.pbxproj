@@ -15,38 +15,7 @@
 		8438085222BB8F430094708D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8438085122BB8F430094708D /* main.m */; };
 		8438085C22BB8F440094708D /* TestThirdFrameworksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8438085B22BB8F440094708D /* TestThirdFrameworksTests.m */; };
 		8438086722BB8F440094708D /* TestThirdFrameworksUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8438086622BB8F440094708D /* TestThirdFrameworksUITests.m */; };
-		845D4DFC2500F7EF00AA66AF /* chenfengpolang的副本2.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DDD2500F7ED00AA66AF /* chenfengpolang的副本2.png */; };
-		845D4DFD2500F7EF00AA66AF /* chenfengpolang的副本29.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DDE2500F7ED00AA66AF /* chenfengpolang的副本29.png */; };
-		845D4DFE2500F7EF00AA66AF /* chenfengpolang的副本18.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DDF2500F7ED00AA66AF /* chenfengpolang的副本18.png */; };
-		845D4DFF2500F7EF00AA66AF /* chenfengpolang的副本10.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE02500F7ED00AA66AF /* chenfengpolang的副本10.png */; };
-		845D4E002500F7EF00AA66AF /* chenfengpolang的副本25.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE12500F7ED00AA66AF /* chenfengpolang的副本25.png */; };
-		845D4E012500F7EF00AA66AF /* chenfengpolang的副本15.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE22500F7ED00AA66AF /* chenfengpolang的副本15.png */; };
-		845D4E022500F7EF00AA66AF /* chenfengpolang的副本4.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE32500F7ED00AA66AF /* chenfengpolang的副本4.png */; };
-		845D4E032500F7EF00AA66AF /* chenfengpolang的副本14.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE42500F7ED00AA66AF /* chenfengpolang的副本14.png */; };
-		845D4E042500F7EF00AA66AF /* chenfengpolang的副本28.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE52500F7ED00AA66AF /* chenfengpolang的副本28.png */; };
-		845D4E052500F7EF00AA66AF /* chenfengpolang的副本27.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE62500F7EE00AA66AF /* chenfengpolang的副本27.png */; };
-		845D4E062500F7EF00AA66AF /* chenfengpolang的副本13.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE72500F7EE00AA66AF /* chenfengpolang的副本13.png */; };
-		845D4E072500F7EF00AA66AF /* chenfengpolang的副本7.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE82500F7EE00AA66AF /* chenfengpolang的副本7.png */; };
-		845D4E082500F7EF00AA66AF /* chenfengpolang的副本11.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DE92500F7EE00AA66AF /* chenfengpolang的副本11.png */; };
-		845D4E092500F7EF00AA66AF /* chenfengpolang的副本3.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DEA2500F7EE00AA66AF /* chenfengpolang的副本3.png */; };
-		845D4E0A2500F7EF00AA66AF /* chenfengpolang的副本26.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DEB2500F7EE00AA66AF /* chenfengpolang的副本26.png */; };
-		845D4E0B2500F7EF00AA66AF /* chenfengpolang的副本19.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DEC2500F7EE00AA66AF /* chenfengpolang的副本19.png */; };
-		845D4E0C2500F7EF00AA66AF /* chenfengpolang的副本17.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DED2500F7EE00AA66AF /* chenfengpolang的副本17.png */; };
-		845D4E0D2500F7EF00AA66AF /* chenfengpolang的副本9.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DEE2500F7EE00AA66AF /* chenfengpolang的副本9.png */; };
-		845D4E0E2500F7EF00AA66AF /* chenfengpolang的副本23.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DEF2500F7EE00AA66AF /* chenfengpolang的副本23.png */; };
-		845D4E0F2500F7EF00AA66AF /* chenfengpolang的副本1.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF02500F7EE00AA66AF /* chenfengpolang的副本1.png */; };
-		845D4E102500F7EF00AA66AF /* chenfengpolang的副本8.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF12500F7EE00AA66AF /* chenfengpolang的副本8.png */; };
-		845D4E112500F7EF00AA66AF /* chenfengpolang的副本24.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF22500F7EE00AA66AF /* chenfengpolang的副本24.png */; };
-		845D4E122500F7EF00AA66AF /* chenfengpolang的副本31.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF32500F7EE00AA66AF /* chenfengpolang的副本31.png */; };
-		845D4E132500F7EF00AA66AF /* chenfengpolang的副本20.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF42500F7EF00AA66AF /* chenfengpolang的副本20.png */; };
-		845D4E142500F7EF00AA66AF /* chenfengpolang的副本22.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF52500F7EF00AA66AF /* chenfengpolang的副本22.png */; };
-		845D4E152500F7EF00AA66AF /* chenfengpolang的副本21.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF62500F7EF00AA66AF /* chenfengpolang的副本21.png */; };
-		845D4E162500F7EF00AA66AF /* chenfengpolang的副本16.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF72500F7EF00AA66AF /* chenfengpolang的副本16.png */; };
-		845D4E172500F7EF00AA66AF /* chenfengpolang的副本6.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF82500F7EF00AA66AF /* chenfengpolang的副本6.png */; };
-		845D4E182500F7EF00AA66AF /* chenfengpolang的副本5.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DF92500F7EF00AA66AF /* chenfengpolang的副本5.png */; };
-		845D4E192500F7EF00AA66AF /* chenfengpolang的副本30.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DFA2500F7EF00AA66AF /* chenfengpolang的副本30.png */; };
-		845D4E1A2500F7EF00AA66AF /* chenfengpolang的副本12.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4DFB2500F7EF00AA66AF /* chenfengpolang的副本12.png */; };
-		845D4E1C2500F81F00AA66AF /* chenfengpolang的副本0.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4E1B2500F81F00AA66AF /* chenfengpolang的副本0.png */; };
+		845D4E1C2500F81F00AA66AF /* chenfengpolang.png in Resources */ = {isa = PBXBuildFile; fileRef = 845D4E1B2500F81F00AA66AF /* chenfengpolang.png */; };
 		84F48C2C22C342DE001E0C8F /* CustomTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F48C2B22C342DE001E0C8F /* CustomTabBarController.m */; };
 		84F48C2F22C3433E001E0C8F /* CustomNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F48C2E22C3433E001E0C8F /* CustomNavigationController.m */; };
 		84F48C3222C34697001E0C8F /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F48C3122C34697001E0C8F /* HomeViewController.m */; };
@@ -93,38 +62,7 @@
 		8438086222BB8F440094708D /* TestThirdFrameworksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestThirdFrameworksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8438086622BB8F440094708D /* TestThirdFrameworksUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestThirdFrameworksUITests.m; sourceTree = "<group>"; };
 		8438086822BB8F440094708D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		845D4DDD2500F7ED00AA66AF /* chenfengpolang的副本2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本2.png"; sourceTree = "<group>"; };
-		845D4DDE2500F7ED00AA66AF /* chenfengpolang的副本29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本29.png"; sourceTree = "<group>"; };
-		845D4DDF2500F7ED00AA66AF /* chenfengpolang的副本18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本18.png"; sourceTree = "<group>"; };
-		845D4DE02500F7ED00AA66AF /* chenfengpolang的副本10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本10.png"; sourceTree = "<group>"; };
-		845D4DE12500F7ED00AA66AF /* chenfengpolang的副本25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本25.png"; sourceTree = "<group>"; };
-		845D4DE22500F7ED00AA66AF /* chenfengpolang的副本15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本15.png"; sourceTree = "<group>"; };
-		845D4DE32500F7ED00AA66AF /* chenfengpolang的副本4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本4.png"; sourceTree = "<group>"; };
-		845D4DE42500F7ED00AA66AF /* chenfengpolang的副本14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本14.png"; sourceTree = "<group>"; };
-		845D4DE52500F7ED00AA66AF /* chenfengpolang的副本28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本28.png"; sourceTree = "<group>"; };
-		845D4DE62500F7EE00AA66AF /* chenfengpolang的副本27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本27.png"; sourceTree = "<group>"; };
-		845D4DE72500F7EE00AA66AF /* chenfengpolang的副本13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本13.png"; sourceTree = "<group>"; };
-		845D4DE82500F7EE00AA66AF /* chenfengpolang的副本7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本7.png"; sourceTree = "<group>"; };
-		845D4DE92500F7EE00AA66AF /* chenfengpolang的副本11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本11.png"; sourceTree = "<group>"; };
-		845D4DEA2500F7EE00AA66AF /* chenfengpolang的副本3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本3.png"; sourceTree = "<group>"; };
-		845D4DEB2500F7EE00AA66AF /* chenfengpolang的副本26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本26.png"; sourceTree = "<group>"; };
-		845D4DEC2500F7EE00AA66AF /* chenfengpolang的副本19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本19.png"; sourceTree = "<group>"; };
-		845D4DED2500F7EE00AA66AF /* chenfengpolang的副本17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本17.png"; sourceTree = "<group>"; };
-		845D4DEE2500F7EE00AA66AF /* chenfengpolang的副本9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本9.png"; sourceTree = "<group>"; };
-		845D4DEF2500F7EE00AA66AF /* chenfengpolang的副本23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本23.png"; sourceTree = "<group>"; };
-		845D4DF02500F7EE00AA66AF /* chenfengpolang的副本1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本1.png"; sourceTree = "<group>"; };
-		845D4DF12500F7EE00AA66AF /* chenfengpolang的副本8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本8.png"; sourceTree = "<group>"; };
-		845D4DF22500F7EE00AA66AF /* chenfengpolang的副本24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本24.png"; sourceTree = "<group>"; };
-		845D4DF32500F7EE00AA66AF /* chenfengpolang的副本31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本31.png"; sourceTree = "<group>"; };
-		845D4DF42500F7EF00AA66AF /* chenfengpolang的副本20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本20.png"; sourceTree = "<group>"; };
-		845D4DF52500F7EF00AA66AF /* chenfengpolang的副本22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本22.png"; sourceTree = "<group>"; };
-		845D4DF62500F7EF00AA66AF /* chenfengpolang的副本21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本21.png"; sourceTree = "<group>"; };
-		845D4DF72500F7EF00AA66AF /* chenfengpolang的副本16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本16.png"; sourceTree = "<group>"; };
-		845D4DF82500F7EF00AA66AF /* chenfengpolang的副本6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本6.png"; sourceTree = "<group>"; };
-		845D4DF92500F7EF00AA66AF /* chenfengpolang的副本5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本5.png"; sourceTree = "<group>"; };
-		845D4DFA2500F7EF00AA66AF /* chenfengpolang的副本30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本30.png"; sourceTree = "<group>"; };
-		845D4DFB2500F7EF00AA66AF /* chenfengpolang的副本12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本12.png"; sourceTree = "<group>"; };
-		845D4E1B2500F81F00AA66AF /* chenfengpolang的副本0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chenfengpolang的副本0.png"; sourceTree = "<group>"; };
+		845D4E1B2500F81F00AA66AF /* chenfengpolang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chenfengpolang.png; sourceTree = "<group>"; };
 		84F48C2A22C342DE001E0C8F /* CustomTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomTabBarController.h; sourceTree = "<group>"; };
 		84F48C2B22C342DE001E0C8F /* CustomTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomTabBarController.m; sourceTree = "<group>"; };
 		84F48C2D22C3433E001E0C8F /* CustomNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomNavigationController.h; sourceTree = "<group>"; };
@@ -255,38 +193,7 @@
 		845D4CD62500F0E200AA66AF /* New Group */ = {
 			isa = PBXGroup;
 			children = (
-				845D4E1B2500F81F00AA66AF /* chenfengpolang的副本0.png */,
-				845D4DF02500F7EE00AA66AF /* chenfengpolang的副本1.png */,
-				845D4DDD2500F7ED00AA66AF /* chenfengpolang的副本2.png */,
-				845D4DEA2500F7EE00AA66AF /* chenfengpolang的副本3.png */,
-				845D4DE32500F7ED00AA66AF /* chenfengpolang的副本4.png */,
-				845D4DF92500F7EF00AA66AF /* chenfengpolang的副本5.png */,
-				845D4DF82500F7EF00AA66AF /* chenfengpolang的副本6.png */,
-				845D4DE82500F7EE00AA66AF /* chenfengpolang的副本7.png */,
-				845D4DF12500F7EE00AA66AF /* chenfengpolang的副本8.png */,
-				845D4DEE2500F7EE00AA66AF /* chenfengpolang的副本9.png */,
-				845D4DE02500F7ED00AA66AF /* chenfengpolang的副本10.png */,
-				845D4DE92500F7EE00AA66AF /* chenfengpolang的副本11.png */,
-				845D4DFB2500F7EF00AA66AF /* chenfengpolang的副本12.png */,
-				845D4DE72500F7EE00AA66AF /* chenfengpolang的副本13.png */,
-				845D4DE42500F7ED00AA66AF /* chenfengpolang的副本14.png */,
-				845D4DE22500F7ED00AA66AF /* chenfengpolang的副本15.png */,
-				845D4DF72500F7EF00AA66AF /* chenfengpolang的副本16.png */,
-				845D4DED2500F7EE00AA66AF /* chenfengpolang的副本17.png */,
-				845D4DDF2500F7ED00AA66AF /* chenfengpolang的副本18.png */,
-				845D4DEC2500F7EE00AA66AF /* chenfengpolang的副本19.png */,
-				845D4DF42500F7EF00AA66AF /* chenfengpolang的副本20.png */,
-				845D4DF62500F7EF00AA66AF /* chenfengpolang的副本21.png */,
-				845D4DF52500F7EF00AA66AF /* chenfengpolang的副本22.png */,
-				845D4DEF2500F7EE00AA66AF /* chenfengpolang的副本23.png */,
-				845D4DF22500F7EE00AA66AF /* chenfengpolang的副本24.png */,
-				845D4DE12500F7ED00AA66AF /* chenfengpolang的副本25.png */,
-				845D4DEB2500F7EE00AA66AF /* chenfengpolang的副本26.png */,
-				845D4DE62500F7EE00AA66AF /* chenfengpolang的副本27.png */,
-				845D4DE52500F7ED00AA66AF /* chenfengpolang的副本28.png */,
-				845D4DDE2500F7ED00AA66AF /* chenfengpolang的副本29.png */,
-				845D4DFA2500F7EF00AA66AF /* chenfengpolang的副本30.png */,
-				845D4DF32500F7EE00AA66AF /* chenfengpolang的副本31.png */,
+				845D4E1B2500F81F00AA66AF /* chenfengpolang.png */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -396,43 +303,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				845D4E042500F7EF00AA66AF /* chenfengpolang的副本28.png in Resources */,
 				84F48C3C22C354E6001E0C8F /* 1.jpg in Resources */,
-				845D4E172500F7EF00AA66AF /* chenfengpolang的副本6.png in Resources */,
-				845D4DFE2500F7EF00AA66AF /* chenfengpolang的副本18.png in Resources */,
-				845D4E052500F7EF00AA66AF /* chenfengpolang的副本27.png in Resources */,
-				845D4E0B2500F7EF00AA66AF /* chenfengpolang的副本19.png in Resources */,
-				845D4E0A2500F7EF00AA66AF /* chenfengpolang的副本26.png in Resources */,
-				845D4E082500F7EF00AA66AF /* chenfengpolang的副本11.png in Resources */,
-				845D4E102500F7EF00AA66AF /* chenfengpolang的副本8.png in Resources */,
-				845D4E132500F7EF00AA66AF /* chenfengpolang的副本20.png in Resources */,
-				845D4E122500F7EF00AA66AF /* chenfengpolang的副本31.png in Resources */,
-				845D4E0D2500F7EF00AA66AF /* chenfengpolang的副本9.png in Resources */,
-				845D4E112500F7EF00AA66AF /* chenfengpolang的副本24.png in Resources */,
 				84F48C3722C34B93001E0C8F /* 0.jpg in Resources */,
-				845D4E1C2500F81F00AA66AF /* chenfengpolang的副本0.png in Resources */,
-				845D4E0C2500F7EF00AA66AF /* chenfengpolang的副本17.png in Resources */,
+				845D4E1C2500F81F00AA66AF /* chenfengpolang.png in Resources */,
 				8438084F22BB8F430094708D /* LaunchScreen.storyboard in Resources */,
-				845D4E162500F7EF00AA66AF /* chenfengpolang的副本16.png in Resources */,
-				845D4DFD2500F7EF00AA66AF /* chenfengpolang的副本29.png in Resources */,
-				845D4E002500F7EF00AA66AF /* chenfengpolang的副本25.png in Resources */,
-				845D4E1A2500F7EF00AA66AF /* chenfengpolang的副本12.png in Resources */,
-				845D4E152500F7EF00AA66AF /* chenfengpolang的副本21.png in Resources */,
-				845D4DFC2500F7EF00AA66AF /* chenfengpolang的副本2.png in Resources */,
-				845D4E142500F7EF00AA66AF /* chenfengpolang的副本22.png in Resources */,
-				845D4E032500F7EF00AA66AF /* chenfengpolang的副本14.png in Resources */,
-				845D4E022500F7EF00AA66AF /* chenfengpolang的副本4.png in Resources */,
-				845D4E182500F7EF00AA66AF /* chenfengpolang的副本5.png in Resources */,
 				8438084C22BB8F430094708D /* Assets.xcassets in Resources */,
-				845D4E062500F7EF00AA66AF /* chenfengpolang的副本13.png in Resources */,
-				845D4E072500F7EF00AA66AF /* chenfengpolang的副本7.png in Resources */,
-				845D4DFF2500F7EF00AA66AF /* chenfengpolang的副本10.png in Resources */,
-				845D4E092500F7EF00AA66AF /* chenfengpolang的副本3.png in Resources */,
-				845D4E0E2500F7EF00AA66AF /* chenfengpolang的副本23.png in Resources */,
-				845D4E012500F7EF00AA66AF /* chenfengpolang的副本15.png in Resources */,
 				8438084A22BB8F420094708D /* Main.storyboard in Resources */,
-				845D4E192500F7EF00AA66AF /* chenfengpolang的副本30.png in Resources */,
-				845D4E0F2500F7EF00AA66AF /* chenfengpolang的副本1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -58,7 +58,7 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
-    [cell.imageView sd_setImageWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle]pathForResource:[NSString stringWithFormat:@"chenfengpolang的副本%ld.png", indexPath.row % 30] ofType:@""]]];
+    [cell.imageView sd_setImageWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle]pathForResource:@"chenfengpolang" ofType:@""]]];
     
     return cell;
 }
